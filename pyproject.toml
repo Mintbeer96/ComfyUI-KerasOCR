@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-kerasocr"
+description = "An OCR node for detect text in image and returns covering mask."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Mintbeer96/ComfyUI-KerasOCR"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-KerasOCR"
+Icon = ""
